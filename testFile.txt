@@ -1,0 +1,9 @@
+this a file to test status commend and test indexing step
+1. git init  -->>> create a local repo on my machine 
+2. git remote add origion "my github repo link"
+3. git pull origion master  -->>> getting the remote files from github to your local repo 
+4. git add fileName -->>> adds a file to your local repo index or it called staged aread
+5. git restore --staged fileName  -->>rmove the file from the staged area which means it's untracked 
+6. git status  -->> shows the status of the files on your local repo which file is tracked and which not 
+7. git commit  -->>  pushes the file changes to your local repo not the remote repo
+     
