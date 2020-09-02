@@ -6,4 +6,5 @@ this a file to test status commend and test indexing step
 5. git restore --staged fileName  -->>rmove the file from the staged area which means it's untracked 
 6. git status  -->> shows the status of the files on your local repo which file is tracked and which not 
 7. git commit  -->>  pushes the file changes to your local repo not the remote repo
-8. git add -A -->> addes alote of file at the same time      
+8. git add -A -->> addes alote of file at the same time 
+9. git log -->> for seeing the logs of actions that you have done     
